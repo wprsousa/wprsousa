@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Analytics/Estatísticas ⚙️
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wprsousa&theme=dracula&langs_count=3&locale=pt-br)
+
 <div>
   <a href="https://www.linkedin.com/in/wellpedro/" target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>   
 </div>
