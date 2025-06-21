@@ -1,7 +1,7 @@
 # 👋 Hello World / Olá Mundo!
 
-Meu nome é Wellington Pedro Sousa. Trabalho como Engenheiro de Software no [Itaú Unibanco](https://www.itau.com.br).  
-My name is Wellington Pedro Sousa. I work as a Software Engineer at [Itaú Unibanco](https://www.itau.com.br).
+Meu nome é Wellington Pedro Ranha de Sousa. Trabalho como Engenheiro de Software no [Itaú Unibanco](https://www.itau.com.br).  
+My name is Wellington Pedro Ranha de Sousa. I work as a Software Engineer at [Itaú Unibanco](https://www.itau.com.br).
 
 ---
 
