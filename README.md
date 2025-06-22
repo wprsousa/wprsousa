@@ -7,6 +7,11 @@ My name is Wellington Pedro Ranha de Sousa. I work as a Software Engineer at [It
 
 ## 📊 **Analytics / Estatísticas**  
 <div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wprsousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wprsousa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wprsousa&show_icons=true&count_private=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wprsousa&layout=compact&langs_count=6&theme=radical)
