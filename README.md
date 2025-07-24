@@ -24,7 +24,7 @@ My name is Wellington Pedro Ranha de Sousa. I work as a Software Engineer at [It
 ---
 
 ## 📫 **Como me encontrar:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wprsousa/)](https://www.linkedin.com/in/wprsousa/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellpedro/)](https://www.linkedin.com/in/wellpedro/)  
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wprsousa@gmail.com)](mailto:wprsousa@gmail.com)  
 
 ---
