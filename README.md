@@ -29,14 +29,6 @@ My name is Wellington Pedro Ranha de Sousa. I work as a Software Engineer at [It
 
 ---
 
-## 📈 **Estatísticas do GitHub de Wellington Sousa**  
-- ⭐ **Total de estrelas:** 13  
-- 🔄 **Total de commits (2025):** 31  
-- 🐞 **Total de Issues:** 0  
-- 🏷️ **Nota Geral:** C+  
-
----
-
 ### ✨ *"Construindo soluções que conectam o presente ao futuro."*  
 
 ---
